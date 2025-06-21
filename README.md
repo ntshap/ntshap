@@ -1,7 +1,7 @@
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="middle">
-      <h1>Hi, I'm [Your Name] ✨</h1>
+      <h1>Hi, I'm Natasha ✨</h1>
       <p><em>Creative developer turning ideas into digital magic. I design and build beautiful, intuitive, and impactful web experiences.</em></p>
       <br>
       <a href="https://linkedin.com/in/[username]"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
