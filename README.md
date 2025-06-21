@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi there! I'm [Your Name]
+# ✨ Hi there! I'm [Your Name] ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
 
 </div>
 
@@ -10,16 +10,16 @@
 
 <div align="center">
   
-## 🚀 About Me
+## 🌸 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🔭 I'm currently working on **amazing projects**  
-🌱 I'm currently learning **cutting-edge technologies**  
-👯 I'm looking to collaborate on **open source projects**  
-💬 Ask me about **anything tech-related**  
-📫 How to reach me: **your.email@example.com**  
-⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
+💖 I'm currently working on **amazing projects**  
+🌺 I'm currently learning **cutting-edge technologies**  
+🦋 I'm looking to collaborate on **open source projects**  
+💭 Ask me about **anything tech-related**  
+📧 How to reach me: **your.email@example.com**  
+✨ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## 🎮 Let's Play Tic-Tac-Toe!
+## 🎀 Let's Play Tic-Tac-Toe! 🎀
 
 <!-- Tic-Tac-Toe Game -->
 <table>
@@ -84,7 +84,7 @@
 </tr>
 </table>
 
-**Click on any square to make your move! 🎯**
+**Click on any square to make your move! 🎯✨**
 
 </div>
 
@@ -97,15 +97,15 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -118,33 +118,33 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💎 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+### 🌸 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Database
+### 💾 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -158,7 +158,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=[username]&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=[username]&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -178,7 +178,7 @@
 **Tech Stack:** React, Node.js, MongoDB  
 **Features:** ✨ Feature 1 • 🔥 Feature 2 • 💡 Feature 3
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=project1&theme=radical&hide_border=true)](https://github.com/[username]/project1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/[username]/project1)
 
 </td>
 <td width="50%">
@@ -189,7 +189,7 @@
 **Tech Stack:** Python, Django, PostgreSQL  
 **Features:** 🎨 Feature 1 • ⚡ Feature 2 • 🛡️ Feature 3
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=project2&theme=radical&hide_border=true)](https://github.com/[username]/project2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/[username]/project2)
 
 </td>
 </tr>
@@ -203,7 +203,7 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[username]&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[username]&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -227,7 +227,7 @@
 
 ## 📊 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=[username]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=[username]&label=Profile%20views&color=FF69B4&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -237,7 +237,7 @@
 
 ## 💭 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
@@ -255,7 +255,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊✨</em>
 
 </div>
 
