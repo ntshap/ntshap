@@ -15,3 +15,50 @@
   </tr>
 </table>
 
+---
+
+<div align="center">
+
+## 💎 Tech Magic 💎
+*Here are some of the technologies I love to work with.*
+
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Featured Creations 🌟
+*Here are some of the projects I'm most proud of.*
+
+<br>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/[username]/project1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/[username]/project2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
