@@ -18,7 +18,7 @@
 🌺 I'm currently learning **cutting-edge technologies**  
 🦋 I'm looking to collaborate on **open source projects**  
 💭 Ask me about **anything tech-related**  
-📧 How to reach me: **your.email@example.com**  
+📧 How to reach me: **natasharondonuwu@gmail.com**  
 ✨ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 </div>
