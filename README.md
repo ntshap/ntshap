@@ -6,8 +6,8 @@
       <br>
       <a href="https://linkedin.com/in/[username]"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
       <a href="https://twitter.com/[username]"><img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-      <a href="https://[username].dev"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"></a>
-      <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+      <a href="natashafolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"></a>
+      <a href="natasharondonuwu@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     </td>
     <td width="50%" valign="middle" align="center">
       <img src="https://i.giphy.com/media/z7wIVXPnpm1DiJDdsU/giphy.gif" width="400" alt="Coding GIF">
@@ -31,7 +31,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
