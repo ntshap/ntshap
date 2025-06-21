@@ -10,7 +10,7 @@
       <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     </td>
     <td width="50%" valign="middle" align="center">
-      <img src="[https://media.giphy.com/media/JtB32gPZlJ0sQn1I39/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTJ5c2RndGxpZjVpeHFkMGZqN2dxNGYydjlsOXBhdTNpb2FjYXUxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/z7wIVXPnpm1DiJDdsU/giphy.gif)" width="400" alt="Coding GIF" style="border-radius:15px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTJ5c2RndGxpZjVpeHFkMGZqN2dxNGYydjlsOXBhdTNpb2FjYXUxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/z7wIVXPnpm1DiJDdsU/giphy.gif" width="400" alt="Coding GIF" style="border-radius:15px;">
     </td>
   </tr>
 </table>
@@ -31,6 +31,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
